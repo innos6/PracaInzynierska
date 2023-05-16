@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "GA.2nd": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
