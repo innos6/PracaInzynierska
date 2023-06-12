@@ -45,15 +45,6 @@ namespace UI
 
             var rnd = new Random();
 
-            //var a = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCCCCCCCCCCCCCCCCCZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZCCCCCCCCCCCCCCCCCCCCCCCCCCCCCZZZZZZZZZZZZZCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBX";
-            //var b = "IIIIIIIIIIIIIIZZZZZZZZZZZZZZZZZJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJZZZZZZZZZZZZZZZZZZZZZSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSX";
-            //var c = "YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYZZZZZZZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZLLLLLLLLLLLLLLLLLLLLLLX";
-            //var d = "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWZZZZZZZZZZZZZZZZZZZZZZZAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAX";
-
-            //printF(1, a);
-            //printF(2, b);
-            //printF(3, c);
-            //printF(4, d);
         }
 
         private void printLine(int arg, Char[] data)
@@ -374,11 +365,6 @@ namespace UI
             //pozostałych 80 osobników otrzymujemy poprzez krzyżowanie
             for (int i = 0; i < (80* population.Count)/100; i++)
             {
-                //testowo na przemian używamy innego operatora krzyżowania
-                //-to dlatego podczas prezentacji tak długo czekaliśmy na dobry wynik
-                //operator PPX (wektor jedynek i dwójek) daje na początku lepsze efekty ale z biegiem czasu słabnie
-                //znacznie lepiej działa operator GOX który przenosi na potomka uporządkowany fragment rodzica
-
                 //edit po refactoringu metody selekcji najlepiej działa właśnie zastosowanie obu operatorów
                 var t = i % 2 == 0 ? 
                     Crossover.GOX(selected[rnd.Next(0, (20* population.Count) / 100)], selected[rnd.Next(0, (20 * population.Count) / 100)]) : 

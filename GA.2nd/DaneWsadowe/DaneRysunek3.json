@@ -1,0 +1,362 @@
+[
+  {
+    "NrZadania": "A",
+    "Operacje": [
+      {
+        "NrZadania": "A",
+        "NrOperacji": 1,
+        "NrMaszyny": 4,
+        "Czas": 65
+      },
+      {
+        "NrZadania": "A",
+        "NrOperacji": 2,
+        "NrMaszyny": 2,
+        "Czas": 170
+      },
+      {
+        "NrZadania": "A",
+        "NrOperacji": 3,
+        "NrMaszyny": 2,
+        "Czas": 75
+      }
+    ]
+  },
+  {
+    "NrZadania": "B",
+    "Operacje": [
+      {
+        "NrZadania": "B",
+        "NrOperacji": 1,
+        "NrMaszyny": 2,
+        "Czas": 105
+      }
+    ]
+  },
+  {
+    "NrZadania": "C",
+    "Operacje": [
+      {
+        "NrZadania": "C",
+        "NrOperacji": 1,
+        "NrMaszyny": 2,
+        "Czas": 105
+      }
+    ]
+  },
+  {
+    "NrZadania": "D",
+    "Operacje": [
+      {
+        "NrZadania": "D",
+        "NrOperacji": 1,
+        "NrMaszyny": 4,
+        "Czas": 55
+      },
+      {
+        "NrZadania": "D",
+        "NrOperacji": 2,
+        "NrMaszyny": 2,
+        "Czas": 170
+      },
+      {
+        "NrZadania": "D",
+        "NrOperacji": 3,
+        "NrMaszyny": 2,
+        "Czas": 74
+      }
+    ]
+  },
+  {
+    "NrZadania": "E",
+    "Operacje": [
+      {
+        "NrZadania": "E",
+        "NrOperacji": 1,
+        "NrMaszyny": 1,
+        "Czas": 76
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 2,
+        "NrMaszyny": 8,
+        "Czas": 100
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 3,
+        "NrMaszyny": 9,
+        "Czas": 250
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 4,
+        "NrMaszyny": 3,
+        "Czas": 172
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 5,
+        "NrMaszyny": 5,
+        "Czas": 77
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 6,
+        "NrMaszyny": 4,
+        "Czas": 64
+      },
+      {
+        "NrZadania": "E",
+        "NrOperacji": 7,
+        "NrMaszyny": 4,
+        "Czas": 73
+      }
+    ]
+  },
+  {
+    "NrZadania": "F",
+    "Operacje": [
+      {
+        "NrZadania": "F",
+        "NrOperacji": 1,
+        "NrMaszyny": 6,
+        "Czas": 145
+      },
+      {
+        "NrZadania": "F",
+        "NrOperacji": 2,
+        "NrMaszyny": 4,
+        "Czas": 64
+      }
+    ]
+  },
+  {
+    "NrZadania": "G",
+    "Operacje": [
+      {
+        "NrZadania": "G",
+        "NrOperacji": 1,
+        "NrMaszyny": 6,
+        "Czas": 410
+      },
+      {
+        "NrZadania": "G",
+        "NrOperacji": 2,
+        "NrMaszyny": 4,
+        "Czas": 80
+      }
+    ]
+  },
+  {
+    "NrZadania": "H",
+    "Operacje": [
+      {
+        "NrZadania": "H",
+        "NrOperacji": 1,
+        "NrMaszyny": 4,
+        "Czas": 200
+      }
+    ]
+  },
+  {
+    "NrZadania": "I",
+    "Operacje": [
+      {
+        "NrZadania": "I",
+        "NrOperacji": 1,
+        "NrMaszyny": 1,
+        "Czas": 74
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 2,
+        "NrMaszyny": 5,
+        "Czas": 76
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 3,
+        "NrMaszyny": 4,
+        "Czas": 72
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 4,
+        "NrMaszyny": 5,
+        "Czas": 89
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 5,
+        "NrMaszyny": 7,
+        "Czas": 156
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 6,
+        "NrMaszyny": 7,
+        "Czas": 125
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 7,
+        "NrMaszyny": 3,
+        "Czas": 83
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 8,
+        "NrMaszyny": 3,
+        "Czas": 80
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 9,
+        "NrMaszyny": 9,
+        "Czas": 78
+      },
+      {
+        "NrZadania": "I",
+        "NrOperacji": 10,
+        "NrMaszyny": 4,
+        "Czas": 84
+      }
+    ]
+  },
+  {
+    "NrZadania": "J",
+    "Operacje": [
+      {
+        "NrZadania": "J",
+        "NrOperacji": 1,
+        "NrMaszyny": 1,
+        "Czas": 75
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 2,
+        "NrMaszyny": 8,
+        "Czas": 115
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 3,
+        "NrMaszyny": 9,
+        "Czas": 345
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 4,
+        "NrMaszyny": 3,
+        "Czas": 207
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 5,
+        "NrMaszyny": 5,
+        "Czas": 68
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 6,
+        "NrMaszyny": 4,
+        "Czas": 66
+      },
+      {
+        "NrZadania": "J",
+        "NrOperacji": 7,
+        "NrMaszyny": 4,
+        "Czas": 82
+      }
+    ]
+  },
+  {
+    "NrZadania": "K",
+    "Operacje": [
+      {
+        "NrZadania": "K",
+        "NrOperacji": 1,
+        "NrMaszyny": 4,
+        "Czas": 75
+      },
+      {
+        "NrZadania": "K",
+        "NrOperacji": 2,
+        "NrMaszyny": 2,
+        "Czas": 285
+      },
+      {
+        "NrZadania": "K",
+        "NrOperacji": 3,
+        "NrMaszyny": 2,
+        "Czas": 95
+      }
+    ]
+  },
+  {
+    "NrZadania": "L",
+    "Operacje": [
+      {
+        "NrZadania": "L",
+        "NrOperacji": 1,
+        "NrMaszyny": 1,
+        "Czas": 72
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 2,
+        "NrMaszyny": 5,
+        "Czas": 81
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 3,
+        "NrMaszyny": 4,
+        "Czas": 82
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 4,
+        "NrMaszyny": 5,
+        "Czas": 101
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 5,
+        "NrMaszyny": 7,
+        "Czas": 201
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 6,
+        "NrMaszyny": 7,
+        "Czas": 159
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 7,
+        "NrMaszyny": 3,
+        "Czas": 95
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 8,
+        "NrMaszyny": 9,
+        "Czas": 91
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 9,
+        "NrMaszyny": 3,
+        "Czas": 88
+      },
+      {
+        "NrZadania": "L",
+        "NrOperacji": 10,
+        "NrMaszyny": 4,
+        "Czas": 99
+      }
+    ]
+  }
+]
